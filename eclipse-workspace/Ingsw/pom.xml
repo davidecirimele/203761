@@ -4,4 +4,15 @@
   <artifactId>Ingsw</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>Lab3Ingsw</name>
+
+
+<dependencies>
+    <dependency>
+        <groupId>junit</groupId>
+        <artifactId>junit</artifactId>
+        <version>4.11</version>
+        <scope>test</scope>
+    </dependency>
+</dependencies>
+
 </project>
